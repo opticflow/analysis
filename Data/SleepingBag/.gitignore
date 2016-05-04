@@ -1,0 +1,6 @@
+# Folders to exclude (because these are generated) #
+####################################################
+Flow
+Histogram
+Image
+Pattern
